@@ -19,4 +19,4 @@ Thanks for stopping by, and happy coding!
 LinkedIn
 
 💻 Tech Stack:
-C C# C++ CSS3 HTML5 JavaScript Python AWS .Net Django Angular Vue.js React NodeJS jQuery Express.js Postgres TensorFlow PyTorch Pandas NumPy
+C C# C++ CSS3 HTML5 JavaScript SystemVerilog Python AWS .Net Django Angular Vue.js React NodeJS jQuery Express.js Postgres TensorFlow PyTorch Pandas NumPy
