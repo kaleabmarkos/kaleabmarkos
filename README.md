@@ -15,8 +15,6 @@ You can also drop me an email at kaleabgessese@gmail.com or kaleabmarkz@gmail.co
 
 Thanks for stopping by, and happy coding!
 
-🌐 Socials:
-LinkedIn
 
 💻 Tech Stack:
 C C# C++ CSS3 HTML5 JavaScript SystemVerilog Python AWS .Net Django Angular Vue.js React NodeJS jQuery Express.js Postgres TensorFlow PyTorch Pandas NumPy
