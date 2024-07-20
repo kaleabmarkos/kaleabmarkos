@@ -9,7 +9,7 @@ Currently, I’m diving deeper into Software and AI, expanding my skill set, and
 I’m always open to collaboration and eager to connect with fellow developers. Whether you have a question, an idea to discuss, or just want to say hi, feel free to reach out!
 
 Let’s connect:
-https://www.linkedin.com/in/kaleab-markos-64369b265/
+https://www.linkedin.com/in/kaleab-markos/
 
 You can also drop me an email at kaleabgessese@gmail.com or kaleabmarkz@gmail.com.
 
